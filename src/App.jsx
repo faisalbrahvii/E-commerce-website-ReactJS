@@ -38,7 +38,7 @@ function App() {
               <Product />  
               <Display />  
               <Popular/>
-              <Item />   
+{/*               <Item />    */}
               <Discount/>
               <PhoneSell />
               <Blog/> 
